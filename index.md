@@ -25,6 +25,6 @@ DiRootsOne includes multiple Autodesk Revit Plugins to boost your productivity. 
 
 [Download](https://diroots.com/revit-plugins/dirootsone/){: .btn .btn-di-orange }
 
-Preview flow test DiRootsOne first commit.
+Preview flow test DiRootsOne second commit.
 
 ![Preview flow test image]({{ '/assets/images/preview-flow-test.png' | relative_url }})
