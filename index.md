@@ -24,3 +24,7 @@ DiRootsOne includes multiple Autodesk Revit Plugins to boost your productivity. 
 - Increase your productivity when working with Point Clouds.
 
 [Download](https://diroots.com/revit-plugins/dirootsone/){: .btn .btn-di-orange }
+
+Preview flow test DiRootsOne first commit.
+
+![Preview flow test image]({{ '/assets/images/preview-flow-test.png' | relative_url }})
